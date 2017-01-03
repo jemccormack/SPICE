@@ -1,2 +1,2 @@
 # SPICE
-Advanced and experimental SPICE simulations.
+Dedicated to advanced/experimental SPICE simulations.
